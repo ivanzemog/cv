@@ -1,0 +1,49 @@
+.hoja{
+    border: 1px solid #333333;
+    background-color: #FFFFFF;
+    height:1000px;
+    width: 1000px;
+    position: absolute;
+    left:290px;
+}
+.columna{
+    display: inline-block;
+    position: absolute;
+    background-color:#333333;
+    height:1000px;
+}
+.img{
+    width: 300px;
+}
+.mi-nombre{
+    text-align:center;
+    display: inline;
+    background-color:gold;
+    position: absolute;
+    top: 100px;
+    left: 280px;
+    width: 690px;
+    height:150px;
+    font-family: cambria;
+}
+.contacto{
+    background-color:gold;
+    color:black;
+    text-align: center;
+    font-family: cambria;
+}
+.texto{
+    color: aliceblue;
+    font-family: cambria;
+    margin: 10px;
+}
+.perfil{
+    margin: 30px;
+    text-align: right;
+    display: inline;
+    position: absolute;
+    top: 230px;
+    left:320px;
+    border-radius: 10px;
+    font-family: cambria;
+}
